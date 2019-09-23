@@ -8,7 +8,6 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
   </head>
   <body>
-    <h1>Hello I <?php echo date("c");?>am Mr USA, I am building the wall </h1><a href="about.php">read about us</a>
-    <p>more changes here so we can test this file welcome to this simple page</p>
+    <h1>welcome to the about us page</h1>
   </body>
 </html>

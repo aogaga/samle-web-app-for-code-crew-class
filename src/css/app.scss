@@ -1,0 +1,26 @@
+$bgcolor : black;
+$textColor: red;
+$highlight: green;
+
+body{
+	p{
+		color: $textColor;
+		a{
+			color:yellow;
+		}
+	}
+
+	font-weight: bold;
+	background: $bgcolor;
+
+	h1{
+		color:$highlight;
+	}
+
+	a{
+		color:blue;
+		&:hover{
+		color:white;
+		}
+	}
+}
